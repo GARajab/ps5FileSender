@@ -1,4 +1,4 @@
-# PS5 File Sender (Windows)
+# PS5 File Sender (Windows / macOS)
 
 A small Windows desktop app for uploading files to a PS5 FTP server at the fixed remote directory `/data/homebrew`.
 
